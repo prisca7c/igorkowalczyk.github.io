@@ -5,7 +5,7 @@ export const meta = {
  //url: process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : `http://localhost:${process.env.PORT || 3000}`,
  url: "https://igorkowalczyk.dev",
  locale: "en_US",
- siteName: "Igor Kowalczyk",
+ siteName: "Bonzi Music School",
  accounts: {
   github: {
    username: "igorkowalczyk",
@@ -110,7 +110,7 @@ export const nav = {
   },
   {
    href: "/work/",
-   title: "My work",
+   title: "My Work",
   },
   {
    href: "/blog/",
